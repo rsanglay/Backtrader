@@ -1,0 +1,1 @@
+This Python code uses the Backtrader library to conduct a backtest of a trading strategy on historical daily gold price data obtained from the Alpha Vantage API. The trading strategy employed is a simple momentum-based strategy, where the algorithm buys (enters a long position) when the momentum of the closing prices is positive.
